@@ -19,5 +19,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreeaIlie516&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaIlie516&theme=tokyonight&exclude_repo=andreeailie516.github.io,Bac-is-Coming,Art-Gallery&langs_count=8&hide=Makefile,CMake,Batchfile,HTML,CSS,C%23,Jupyter%20Notebook&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreeaIlie516&theme=tokyonight&exclude_repo=andreeailie516.github.io,Bac-is-Coming,Art-Gallery&langs_count=8&hide=Makefile,CMake,Batchfile,HTML,C%23,Jupyter%20Notebook&layout=compact)
 
