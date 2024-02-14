@@ -6,8 +6,8 @@
 
 <br />
 🚀 My Skills <br />
-•Programming languages: Kotlin, Python, Java, Golang, Javascript, C++ <br />
-•Frameworks and libraries: Jetpack Compose, Gin, React, Node.js, Express.js, Django, NumPy, TensorFlow, Scikit-Learn <br />
+•Programming languages: Kotlin, Python, Java, Golang, Javascript, C++, Swift <br />
+•Frameworks and libraries: Jetpack Compose, Gin, React, Node.js, Express.js, Flask, SwiftUI, NumPy, TensorFlow, Scikit-Learn <br />
 •Databases:  MongoDB, MySQL, Microsoft SQL Server <br />
 •Cloud platforms: Amazon Web Services <br />
 •Other tools: Git, Docker<br />
