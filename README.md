@@ -8,7 +8,7 @@
 🚀 My Skills <br />
 •Programming languages: Kotlin, Python, Java, Go, TypeScript, C++, Swift <br />
 •Frameworks and libraries: Jetpack Compose, Gin, React, Node.js, Express.js, Flask, SwiftUI, NumPy, TensorFlow, Scikit-Learn <br />
-•Databases:  MongoDB, MySQL, Microsoft SQL Server <br />
+•Databases:  MongoDB, PostgreSQL, MySQL, Microsoft SQL Server <br />
 •Cloud platforms: Amazon Web Services <br />
 •Other tools: Git, Docker<br />
 
